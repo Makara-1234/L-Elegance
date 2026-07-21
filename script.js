@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Herb-Crusted Lamb Rack",
             category: "mains",
             price: 34.00,
-            img: "images/dish.png",
+            img: "dish.png",
             desc: "Slow-roasted lamb, mint-infused jus, and seasonal root vegetables."
         },
         {
