@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Pan-Seared Scallops",
             category: "starters",
             price: 18.50,
-            img: "images/dish.png",
+            img: "dish.png",
             desc: "Fresh scallops with pea puree, crispy pancetta, and micro-greens."
         },
         {
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Beef Tartare",
             category: "starters",
             price: 16.00,
-            img: "images/dish.png",
+            img: "dish.png",
             desc: "Hand-cut prime beef, quail egg yolk, capers, and toasted brioche."
         },
         {
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Wild Mushroom Risotto",
             category: "mains",
             price: 26.00,
-            img: "images/dish.png",
+            img: "dish.png",
             desc: "Creamy Arborio rice, truffle oil, and aged Parmesan shavings."
         },
         {
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Dark Chocolate Fondant",
             category: "desserts",
             price: 12.50,
-            img: "images/dish.png",
+            img: "dish.png",
             desc: "Warm chocolate cake with a molten center and vanilla bean gelato."
         },
         {
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Lemon Sorbet",
             category: "desserts",
             price: 9.00,
-            img: "images/dish.png",
+            img: "dish.png",
             desc: "Refreshing house-made lemon sorbet with fresh mint garnish."
         }
     ];
